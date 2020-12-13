@@ -1,0 +1,34 @@
+Easy tasks:
+
+Task 1. Make probram which calculates the surface of geometric figures:
+a) for a triangle by side length and respective height.
+b) for a rectangle by 2 sides
+c) for a triangle by three sides
+
+Standard Input for b):
+
+Enter width = 8.1
+Enter height = 10.5
+
+Standard Output for b):
+
+The surfance of the rectangle is 80.05
+
+Task 2. Write a program in C which generates the following standard output:
+
+--------------------------------------------------------------------------
+* Number * Name      * Subject   * Mark 1 * Mark 2 * Mark 3 * Final Mark *
+--------------------------------------------------------------------------
+* 1      * Student 1 * Subject 1 * 4.23   * 5.33   * 6.22   *            *
+* 2      * Student 2 * Subject 1 * 3.43   * 4.44   * 6.24   *            *
+* 3      * Student 3 * Subject 1 * 5.53   * 5.03   * 4.35   *            *
+* 4      * Student 4 * Subject 2 * 6.00   * 3.00   * 6.00   *            *
+* 5      * Student 5 * Subject 2 * 5.13   * 3.11   * 6.00   *            *
+--------------------------------------------------------------------------
+
+The final mark field should contain the average between the Mark 1,2 ad 3 fields.
+
+
+Task 3. Write a program which finds all positive integer solutions of the equation
+8*x - 9*y = 3, where x < 100 and y < 100.
+(hint: use two for loops for x and y)
